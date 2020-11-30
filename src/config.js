@@ -1,0 +1,1 @@
+export const MENU_ANIMATION_DURATION = 0.5;
